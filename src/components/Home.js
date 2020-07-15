@@ -9,7 +9,7 @@ import MySecondModal from './MySecondModal'
 import MyThirdModal from './MyThirdModal'
 import Footer from './Footer'
 import AboutUs from './AboutUs'
-import Form from './Form'
+
 //import { FontAwesomeIcon } from "@fortawesome/fontawesome-free";
 class Home extends Component {
 
@@ -92,7 +92,7 @@ class Home extends Component {
           </section>
 
         <Footer />
-      <Form />
+
         </div>
     )
   }
