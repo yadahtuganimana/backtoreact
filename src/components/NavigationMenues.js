@@ -19,8 +19,8 @@ const NavigationMenues = () => {
          </nav>
          <ul className="sidenav" id="mobile-link">
            <li  className="center-align h3"><Link to="/">home</Link></li>
-           <li className="center-align h3"><NavLink to="/About">about us</NavLink></li>
-           <li className="center-align h3"><NavLink to="/Contact">contact us</NavLink></li>
+           <li className="center-align h3"><NavLink to="/AboutUs">about us</NavLink></li>
+           <li className="center-align h3"><NavLink to="/ContactUs">contact us</NavLink></li>
            <li className="center-align h3"><NavLink to="/Contact">for sure</NavLink></li>
          </ul>
 
